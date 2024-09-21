@@ -124,9 +124,6 @@ export function WelcomeBanner() {
         <button onClick={copyInvite}>
           💸 Copy Invite
         </button>
-        <button onClick={() => window.open('https://v2.gamba.so/', '_blank')}>
-          🚀 Add Liquidity
-        </button>
         <button onClick={() => window.open('https://discord.gg/JmEyn9f3Fm', '_blank')}>
           💬 Discord
         </button>
