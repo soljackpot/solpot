@@ -124,7 +124,7 @@ export function WelcomeBanner() {
         <button onClick={copyInvite}>
           💸 Copy Invite
         </button>
-        <button onClick={() => window.open('https://discord.gg/JmEyn9f3Fm', '_blank')}>
+        <button onClick={() => window.open('https://discord.gg/3s7gTnFc5p', '_blank')}>
           💬 Discord
         </button>
       </Buttons>
