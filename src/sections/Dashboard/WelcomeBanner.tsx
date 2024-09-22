@@ -122,10 +122,10 @@ export function WelcomeBanner() {
       </div>
       <Buttons>
         <button onClick={copyInvite}>
-          💸 Copy Invite
+          💸 Refferal
         </button>
-        <button onClick={() => window.open('https://discord.gg/3s7gTnFc5p', '_blank')}>
-          💬 Discord
+        <button onClick={() => window.open('https://t.me/SolPotPortal', '_blank')}>
+          💬 Telegram
         </button>
       </Buttons>
     </Welcome>
