@@ -125,7 +125,7 @@ export function WelcomeBanner() {
         <button onClick={copyInvite}>
           💸 Refferal
         </button>
-        <button onClick={() => window.open('https://t.me/SolPotPortal', '_blank')}>
+        <button onClick={() => window.open('https://t.me/SolPotVerify', '_blank')}>
           💬 Telegram
         </button>
       </Buttons>
