@@ -118,6 +118,7 @@ export function WelcomeBanner() {
         <h1>Welcome To SolPot</h1>
         <p>
           A fair decentralized casino.
+          CA: Hrna2mZ4uGYHam4cunj1rDx4WvDQ2UvsGzRbbi5Xk7vK
         </p>
       </div>
       <Buttons>
